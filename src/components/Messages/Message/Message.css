@@ -1,0 +1,10 @@
+.message {
+    margin-bottom: 10px;
+    color: #fff;
+    padding: 12px 12px 5px;
+    border-radius: 5px;
+    background: #1c2733;
+    animation-name: new-message;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+}
